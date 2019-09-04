@@ -87,7 +87,7 @@ Instead of destroying the account balance, it is amended to “freeze the remain
 ## Note: Proposal Email: BPproposal@eosforce.io
 
 
-**Community Suggestion: https://medium.com/@getsecurityhelp/some-opinions-on-the-eosforce-community-of-the-freezing-motion-80b4b2d2eaee **
+** Community Suggestion: https://medium.com/@getsecurityhelp/some-opinions-on-the-eosforce-community-of-the-freezing-motion-80b4b2d2eaee **
 
 
-**Meeting Minutes by EOSOU-Bill Sou **
+** Meeting Minutes by EOSOU-Bill Sou **
